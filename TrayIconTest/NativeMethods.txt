@@ -1,0 +1,5 @@
+DwmSetWindowAttribute
+DWM_SYSTEMBACKDROP_TYPE
+DWM_WINDOW_CORNER_PREFERENCE
+Shell_NotifyIconGetRect
+SetWindowPos
